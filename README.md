@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharindu-sa20&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu-sa20" /> </p>
 
-- 📫 How to reach me **tharinduaushanemail@gmail.com**
+- 📫 How to reach me email-**tharinduaushanemail@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
