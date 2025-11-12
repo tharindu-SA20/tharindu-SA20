@@ -5,8 +5,8 @@
 </div>
 
 🎓 I completed **BSc in Computer Science and Mathematics** from the **University of Peradeniya**.<br>
-💻 My interests lie within the fields of **AI, ML, and Data Science**.<br>
-💼 Currently, I'm learning **AWS**, **Azure**, **AI**, and **ML**.<br>
+💻 My interests lie within the fields of **AI, ML and Data Science**.<br>
+💼 Currently, I'm learning **AWS**, **Azure** and **AI/ML**.<br>
 
 <div align="center">
 
